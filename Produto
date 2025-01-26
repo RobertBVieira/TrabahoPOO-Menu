@@ -9,9 +9,9 @@ public class Produto{
         this.nome = nome;
     }
     public float getPreco(){
-        return.getPreco;
+        return getPreco;
     }
-    public float setPreco(float preco){
+    public void setPreco(float preco){
         this.preco = preco;
     }
 }
